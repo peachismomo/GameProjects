@@ -50,4 +50,4 @@ Story:
 [![Watch the Trailer]](Trailers/TarotsFateTrailer.mp4)
 
 ### Gameplay (16 mins)
-[![Watch the Gameplay video]](Gameplay/TarotsFateGameplay.mp4)
+[![Watch the Gameplay video]](Gameplay/TarotsFate_GameplayVideo.mp4)
