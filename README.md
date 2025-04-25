@@ -31,7 +31,7 @@ Story:
 ### Trailer
 [![Watch the Trailer](https://img.youtube.com/vi/kwk77ES5b6U/maxresdefault.jpg)](https://www.youtube.com/watch?v=kwk77ES5b6U)
 
-## Tarot's Fate (Year 3 Project, In Development)
+## Tarot's Fate (Year 3 Project)
 Tarot's Fate is a 3D action-adventure game with soulslike-inspired combat elements, boasting engaging visual effects. Players take on the role of Salem, a young mage who must rescue her parents from the clutches of the Golden King. Set in a world where magic is outlawed, Salem embarks on a perilous journey, facing enemies such as knights, a golem, and a rival mage.
 Story:
 - Salem is on a mission to find and rescue her parents, using the limited but powerful spells taught by them.
@@ -45,3 +45,9 @@ Story:
 ![Alt text](Screenshots/TarotsFate_(4).png)
 ![Alt text](Screenshots/TarotsFate_(5).png)
 ![Alt text](Screenshots/TarotsFate_(6).png)
+
+### Trailer (1 min 30 seconds)
+[![Watch the Trailer]](Trailers/TarotsFateTrailer.mp4)
+
+### Gameplay (16 mins)
+[![Watch the Trailer]](Gameplay/TarotsFateGameplay.mp4)
