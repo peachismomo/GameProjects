@@ -45,9 +45,3 @@ Story:
 ![Alt text](Screenshots/TarotsFate_(4).png)
 ![Alt text](Screenshots/TarotsFate_(5).png)
 ![Alt text](Screenshots/TarotsFate_(6).png)
-
-### Trailer (1 min 30 seconds)
-[![Watch the Trailer]](Trailers/TarotsFateTrailer.mp4)
-
-### Gameplay (16 mins)
-[![Watch the Gameplay video]](https://github.com/peachismomo/GameProjects/raw/main/Gameplay/TarotsFate_GameplayVideo.mp4)
