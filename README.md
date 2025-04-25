@@ -36,7 +36,6 @@ Tarot's Fate is a 3D action-adventure game with soulslike-inspired combat elemen
 Story:
 - Salem is on a mission to find and rescue her parents, using the limited but powerful spells taught by them.
 - Engage in challenging combat against formidable foes while uncovering secrets and overcoming the dangers of a world that fears mages.
-- This game is still under development with a team of 8 developers, 2 designers, and 1 artist.
 
 ### Screenshots
 ![Alt text](Screenshots/TarotsFate_(1).png)
