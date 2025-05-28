@@ -43,4 +43,4 @@ Story:
 ![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(3).png)
 ![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(4).png)
 ![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(5).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(6).png)
+![Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(6).png)
