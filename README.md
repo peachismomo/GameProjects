@@ -37,10 +37,10 @@ Story:
 - Salem is on a mission to find and rescue her parents, using the limited but powerful spells taught by them.
 - Engage in challenging combat against formidable foes while uncovering secrets and overcoming the dangers of a world that fears mages.
 
-### Screenshots
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(1).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(2).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(3).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(4).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(5).png)
-![Alt text](https://github.com/peachismomo/GameProjects/blob/main/Screenshots/TarotsFate_(6).png)
+### Screenshots!
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(1).png)
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(2).png)
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(3).png)
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(4).png)
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(5).png)
+[Alt text](https://raw.githubusercontent.com/peachismomo/GameProjects/main/Screenshots/TarotsFate_(6).png)
